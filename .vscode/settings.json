@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "led.h": "c",
+        "lcd_driver.h": "c",
+        "bsp_key.h": "c",
+        "gizwits_product.h": "c",
+        "tongyong_tim.h": "c",
+        "sys.h": "c",
+        "lcd_config.h": "c",
+        "usart.h": "c",
+        "usart2.h": "c"
+    },
+    "commentTranslate.hover.enabled": false,
+    "Codegeex.RepoIndex": true
+}
