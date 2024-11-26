@@ -1,1 +1,16 @@
 # xiaoyang-project
+
+
+
+STM32F103ZET6
+PWM-CONTROL-FANS
+PID
+DHT22
+WIFI-机智云
+KEY
+LCD
+离线语音ASR_PRO
+DC-DC降压
+BEEP
+USART1-WIFI-communication
+USART2-串口调试
