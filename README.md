@@ -1,16 +1,34 @@
 # xiaoyang-project
 
+# 使用STD库
+
+![D:\文档\xiaoyang-project\image\3 - 副本.png](3 - 副本.png)
+**##项目资源**
+1.**STM32F103ZET6**
+2.**PWM-CONTROL-FANS**
+3.**PID**
+4.**DHT22**
+5.**WIFI-机智云**
+6.**KEY**
+7.**LCD**
+8.**离线语音ASR_PRO**
+9.**DC-DC降压**
+10.**BEEP**
+11.**USART1-WIFI-communication**
+12.**USART2-串口调试**
+
+*要求：*
+*4.智能语音遥控风扇（要求可语音遥控+监测环境温度智能调速，论文需重点展开作品中的各通信协议，时序图要重点展开介绍，如iic协议，spi协议等，此外论文应大篇展开温度于风速之间的关系，使用pid算法调控）*
+
+*基于pid算法控制下的智能语音遥控风扇
+1.通过pid算法监测环境温度自动调速（温度与风速之间的关系）
+2.客户端（小程序）可以远程控制
+3.设定时间开启关闭（小程序/按键）
+4.风扇的对面做个主控+温度检测+wifi，传输温度之类的信息
+5.监测温度自动喷水 水里可以放半导体降温（待选）
+6.语音控制模块asrpro*
 
 
-STM32F103ZET6
-PWM-CONTROL-FANS
-PID
-DHT22
-WIFI-机智云
-KEY
-LCD
-离线语音ASR_PRO
-DC-DC降压
-BEEP
-USART1-WIFI-communication
-USART2-串口调试
+
+
+
